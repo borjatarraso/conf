@@ -1,0 +1,343 @@
+#+BEGIN_COMMENT’           =======================             ‘#+END_COMMENT
+#+BEGIN_COMMENT’           YOUR LIFE IN PLAIN TEXT             ‘#+END_COMMENT
+#+BEGIN_COMMENT’           =======================             ‘#+END_COMMENT
+
+* TODO Tasks 2014-2015 [18%]                                      :2014:2015:
+** TODO Technical books (1 per month) [0%]                             :book:
+*** TODO Methodologies [0/1]                                    :methodology:
+**** TODO [#B] Extreme programming explained                             :xp:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2014-08-02 Sat>
+**** TODO [#C] The Pragmatic programmer                           :pragmatic:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2014-08-16 Sat>
+**** TODO Refactoring                                           :refactoring:
+     SCHEDULED: <2014-08-17 Sun> DEADLINE: <2014-09-20 Sat>
+**** TODO Analysis patterns                                        :patterns:
+     SCHEDULED: <2014-09-21 Sun> DEADLINE: <2014-10-25 Sat>
+**** TODO Design patterns                                          :patterns:
+     SCHEDULED: <2014-10-26 Sun> DEADLINE: <2014-11-29 Sat>
+**** TODO Applied UML                                                   :uml:
+     SCHEDULED: <2014-11-30 Sun> DEADLINE: <2015-01-31 Sat>
+*** TODO Programming books [/]                                  :programming:
+**** TODO [#C] Common Lisp                                             :lisp:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2014-08-16 Sat>
+**** TODO The little schemer                                           :lisp:
+     SCHEDULED: <2014-08-17 Sun> DEADLINE: <2014-09-20 Sat>
+**** TODO The land of lisp                                             :lisp:
+     SCHEDULED: <2014-09-21 Sun> DEADLINE: <2014-11-29 Sat>
+**** TODO SICP                                                         :lisp:
+     SCHEDULED: <2014-12-21 Sun> DEADLINE: <2015-03-21 Sat>
+**** TODO Mastering algorithms in C                                       :c:
+     SCHEDULED: <2015-03-22 Sun> DEADLINE: <2015-06-20 Sat>
+**** TODO Haskell book                                              :haskell:
+     SCHEDULED: <2015-03-22 Sun> DEADLINE: <2015-06-20 Sat>
+**** TODO Modern C++ Alexandrescu                                 :cplusplus:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2015-12-19 Sat>
+**** TODO Exceptional C++ Shutter                                 :cplusplus:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2015-12-19 Sat>
+*** TODO Security [/]                                              :security:
+**** TODO [#C] Nmap                                                    :nmap:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2014-08-16 Sat>
+**** TODO Wireshark                                               :wireshark:
+     SCHEDULED: <2014-08-17 Sun> DEADLINE: <2014-09-20 Sat>
+**** TODO Metasploit                                             :metasploit:
+     SCHEDULED: <2014-11-30 Sun> DEADLINE: <2014-11-29 Sat>
+**** TODO Applied cryptography                                 :cryptography:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2015-12-19 Sat>
+*** TODO Tooling [/]                                                   :tool:
+**** TODO Valgrind                                                 :valgrind:
+     SCHEDULED: <2014-08-17 Sun> DEADLINE: <2014-09-20 Sat>
+**** TODO GNU/Make                                                     :make:
+     SCHEDULED: <2014-09-21 Sun> DEADLINE: <2014-11-29 Sat>
+**** TODO Autotools                                               :autotools:
+     SCHEDULED: <2015-02-01 Sun> DEADLINE: <2015-03-21 Sat>
+**** TODO Awk, sed, screen, git modules and other basic tools   :awk:sed:scr:
+     SCHEDULED: <2015-03-22 Sun> DEADLINE: <2015-06-20 Sat>
+*** TODO Networking [/]                                          :networking:
+**** TODO POSIX threads book 1)                                     :threads:
+     SCHEDULED: <2014-09-21 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO POSIX threads book 2)                                     :threads:
+     SCHEDULED: <2014-09-21 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO UNP vol 1 sockets                                         :sockets:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO UNP vol 2 ipc                                                 :ipc:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO TCP/IP illustrated vol 1                                :protocols:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO TCP/IP illustrated vol 2                                :protocols:
+     SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO Computer networks Tanembaum                             :protocols:
+     SCHEDULED: <2015-12-20 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO Ethernet                                                 :ethernet:
+     SCHEDULED: <2015-12-20 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO The switch book                                            :switch:
+     SCHEDULED: <2015-12-20 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO OS [/]                                                          :os:
+**** TODO [#C] Advanced unix environmnet                               :unix:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO [#C] The Linux programming interface                        :linux:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO Understanding Linux kernel                                 :kernel:
+     SCHEDULED: <2015-12-20 Sun> DEADLINE: <2016-01-31 Sat>
+**** TODO [#C] Linux kernel book                                     :kernel:
+     SCHEDULED: <2014-07-20 Sun> DEADLINE: <2016-01-31 Sat>
+** TODO Non-technical books (1 per 6 months) [%]                       :book:
+*** TODO [#C] El aleph                                               :borges:
+    SCHEDULED: <2014-07-20 Sun> DEADLINE: <2014-10-25 Sat>
+*** TODO Un mundo feliz                                              :huxley:
+    SCHEDULED: <2014-10-26 Sun> DEADLINE: <2015-01-31 Sat>
+*** TODO El maestro de esgrima                                      :reverte:
+    SCHEDULED: <2015-02-01 Sun> DEADLINE: <2015-06-20 Sat>
+*** TODO Free Software society                                     :stallman:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2015-12-31 Thu>
+*** TODO Free as in freedom                                        :stallman:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2015-12-31 Thu>
+*** TODO Cultura vasca                                               :vascos:
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-12-31 Sat>
+*** TODO Momo                                                        :huxley:
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-12-31 Sat>
+*** TODO Anna Politkosvkaya                                   :politkosvkaya:
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-12-31 Sat>
+*** TODO Homenaje a Cataluna                                         :orwell:
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-12-31 Sat>
+*** TODO Ajedrez book fotocopiado                                     :chess:
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-12-31 Sat>
+*** TODO Ajedrez book                                                 :chess:
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-12-31 Sat>
+** TODO Long term books (1 chapter per month) [%]                      :long:
+*** TODO GEB                                                    :hodfstaster:
+    SCHEDULED: <2014-09-21 Sun> DEADLINE: <2015-12-31 Thu>
+** TODO [#A] Mailing list (follow weekly) [0%] SCHEDULED: <2014-07-20 Sun +1w> DEADLINE: <2014-07-26 Sat +1w> :mailing:
+ :PROPERTIES:
+ :RESET_CHECK_BOXES: t
+ :END:
+ - [ ] Emacs mailing list
+ - [ ] Follow mailing depending of topic studying:
+       https://lists.gnu.org/mailman/listinfo
+** TODO [#A] News technology portal (follow every 2 days) [%] SCHEDULED: <2014-07-24 Thu +1d> DEADLINE: <2014-07-26 Sat +1d> :news:
+ :PROPERTIES:
+ :RESET_CHECK_BOXES: t
+ :END:
+ - [ ] Stackoverflow
+ - [ ] Reddit
+ - [ ] Securityfocus
+ - [ ] Stallman blog
+** TODO Maintain technical blog (1 per month) [%]                      :blog:
+*** TODO [#C] Smooth scrolling emacs                                  :emacs:
+    SCHEDULED: <2014-08-01 Fri> DEADLINE: <2014-08-31 Sun>
+*** TODO PLT-scheme & DrScheme                                         :lisp:
+    SCHEDULED: <2014-09-01 Mon> DEADLINE: <2014-09-30 Tue>
+*** TODO Emacs debug lisp                                              :lisp:
+    SCHEDULED: <2014-10-01 Wed> DEADLINE: <2014-10-31 Fri>
+*** TODO Hacking SLIME                                                 :lisp:
+    SCHEDULED: <2014-11-01 Sat> DEADLINE: <2014-11-30 Sun>
+*** TODO Org-mode: archive                                              :org:
+    SCHEDULED: <2014-12-01 Mon> DEADLINE: <2014-12-31 Wed>
+*** TODO TECO & DDT                                                    :teco:
+    SCHEDULED: <2015-01-01 Thu> DEADLINE: <2015-01-31 Sat>
+*** TODO Emacs as instant messenger                                   :emacs:
+    SCHEDULED: <2015-02-01 Sun> DEADLINE: <2015-02-28 Sat>
+*** TODO rmail                                                        :rmail:
+    SCHEDULED: <2015-03-01 Sun> DEADLINE: <2015-03-31 Tue>
+*** TODO EtagsSelect, Vtags y otros                                    :tags:
+    SCHEDULED: <2015-04-01 Wed> DEADLINE: <2015-04-30 Thu>
+*** TODO Icicles or similar                                           :emacs:
+    SCHEDULED: <2015-05-01 Fri> DEADLINE: <2015-05-31 Sun>
+*** TODO Custom emacs                                                 :emacs:
+    SCHEDULED: <2015-06-01 Mon> DEADLINE: <2015-06-30 Tue>
+*** TODO XML emacs                                                      :xml:
+    SCHEDULED: <2015-07-01 Wed> DEADLINE: <2015-07-31 Fri>
+*** TODO HTML emacs                                                    :html:
+    SCHEDULED: <2015-08-01 Sat> DEADLINE: <2015-08-31 Mon>
+*** TODO XHTML emacs                                                  :xhtml:
+    SCHEDULED: <2015-09-01 Tue> DEADLINE: <2015-09-30 Wed>
+*** TODO SGML emacs                                                    :sgml:
+    SCHEDULED: <2015-10-01 Thu> DEADLINE: <2015-10-31 Sat>
+*** TODO PGMSL emacs                                                  :pgmsl:
+    SCHEDULED: <2015-11-01 Sun> DEADLINE: <2015-11-30 Mon>
+*** TODO Emacs hacking                                                :emacs:
+    SCHEDULED: <2015-12-01 Tue> DEADLINE: <2015-12-31 Thu>
+** TODO [#B] Journal (1 per month) [%] SCHEDULED: <2014-07-21 Mon> DEADLINE: <2014-07-26 Sat +1m> :journal:
+ :PROPERTIES:
+ :RESET_CHECK_BOXES: t
+ :END:
+ - [ ] Linux journal
+** TODO Study new technology (1 per 4 months) [%]                :technology:
+*** TODO [#B] Robot framework                                         :robot:
+    SCHEDULED: <2014-07-20 Sun> DEADLINE: <2014-07-26 Sat>
+*** TODO TeX/LaTeX                                                      :tex:
+    SCHEDULED: <2015-01-01 Thu> DEADLINE: <2015-12-19 Sat>
+*** TODO XML                                                            :xml:
+    SCHEDULED: <2015-01-01 Thu> DEADLINE: <2016-01-31 Sat>
+*** TODO DB: Mongo/MariaDB/postgre                                 :database:
+    SCHEDULED: <2015-12-20 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO IPC: beej                                                      :ipc:
+    SCHEDULED: <2014-11-30 Sun> DEADLINE: <2014-12-20 Sat>
+*** TODO Mock objects in unit tests                                    :mock:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO TOR protocol                                                   :tor:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO Deep web                                                   :deepweb:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO Dark net                                                   :darknet:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO SELinux                                                    :selinux:
+    SCHEDULED: <2015-06-21 Sun> DEADLINE: <2016-01-31 Sat>
+*** TODO [#C] W3M                                                       :w3m:
+    SCHEDULED: <2014-07-21 Mon> DEADLINE: <2016-01-31 Sat>
+*** TODO [#C] Gnus                                                     :gnus:
+    SCHEDULED: <2014-07-21 Mon> DEADLINE: <2016-01-31 Sat>
+*** TODO [#C] ORG mode                                                  :org:
+    SCHEDULED: <2014-07-21 Mon> DEADLINE: <2016-01-31 Sat>
+** TODO Study new language (1 per 4 months) [%]                    :language:
+*** TODO Python                                                      :python:
+    SCHEDULED: <2014-08-17 Sun> DEADLINE: <2014-12-20 Sat>
+*** TODO C                                                                :c:
+    SCHEDULED: <2014-08-17 Sun> DEADLINE: <2014-12-20 Sat>
+*** TODO Common Lisp                                                   :lisp:
+    SCHEDULED: <2014-12-21 Sun> DEADLINE: <2015-03-21 Sat>
+*** TODO Scheme                                                        :lisp:
+    SCHEDULED: <2014-12-21 Sun> DEADLINE: <2015-03-21 Sat>
+*** TODO Haskell                                                    :haskell:
+    SCHEDULED: <2015-03-22 Sun> DEADLINE: <2015-06-20 Sat>
+*** TODO C++                                                      :cplusplus:
+    SCHEDULED: <2015-03-22 Sun> DEADLINE: <2015-12-19 Sat>
+** DONE Other iterational tasks (1 per 2 months) [0%]                 :other:
+   CLOSED: [2014-07-20 Sun 21:22] SCHEDULED: <2014-08-21 Thu +1m> DEADLINE: <2014-08-26 Tue +1m>
+*** TODO [#A] Re-order hard-drive and backups                        :backup:
+    SCHEDULED: <2014-10-21 Tue +1m> DEADLINE: <2014-10-26 Sun +1m>
+    - State "DONE"       from "TODO"       [2014-07-20 Sun 21:25]
+    :PROPERTIES:
+    :LAST_REPEAT: [2014-07-20 Sun 21:25]
+    :END:
+*** TODO [#A] Backup configuration files                             :backup:
+    SCHEDULED: <2014-08-21 Thu +1m> DEADLINE: <2014-08-26 Tue +1m>
+    - State "DONE"       from "TODO"       [2014-07-20 Sun 20:58]
+    :PROPERTIES:
+    :LAST_REPEAT: [2014-07-20 Sun 20:58]
+    :END:
+*** TODO [#A] Update new bookmarks                                :bookmarks:
+    SCHEDULED: <2014-08-21 Thu +1m> DEADLINE: <2014-08-26 Tue +1m>
+    - State "DONE"       from "TODO"       [2014-07-20 Sun 21:21]
+    :PROPERTIES:
+    :LAST_REPEAT: [2014-07-20 Sun 21:21]
+    :END:
+** DONE Scheduling tasks [100%]                                   :scheduler:
+   CLOSED: [2014-07-20 Sun 20:49]
+*** DONE Schedule tasks for 20-SEP-2014
+    CLOSED: [2014-07-20 Sun 09:19] SCHEDULED: <2014-08-09 Sat> DEADLINE: <2014-08-16 Sat>
+*** DONE Schedule tasks for 25-OCT-2014
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2014-09-13 Sat> DEADLINE: <2014-09-20 Sat>
+*** DONE Schedule tasks for 29-NOV-2014
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2014-10-18 Sat> DEADLINE: <2014-10-25 Sat>
+*** DONE Schedule tasks for 20-DEC-2014
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2014-11-22 Sat> DEADLINE: <2014-11-29 Sat>
+*** DONE Schedule tasks for 31-JAN-2015
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2014-12-13 Sat> DEADLINE: <2014-12-20 Sat>
+*** DONE Schedule tasks for 21-MAR-2015
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2015-01-24 Sat> DEADLINE: <2015-01-31 Sat>
+*** DONE Schedule tasks for 21-JUN-2015
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2015-03-14 Sat> DEADLINE: <2015-03-21 Sat>
+*** DONE Schedule tasks for 19-DEC-2015
+    CLOSED: [2014-07-20 Sun 09:20] SCHEDULED: <2015-06-13 Sat> DEADLINE: <2015-06-20 Sat>
+** TODO [#C] Study russian                                          :russian:
+   DEADLINE: <2016-12-31 Sat> SCHEDULED: <2014-07-20 Sun>
+* TODO Tasks 2016 [0%]                                                 :2016:
+** TODO Scheduling tasks [%]                                      :scheduler:
+*** TODO Re-schedule dates and tasks of 31-DEC-2016 (all year 2016)
+    SCHEDULED: <2016-01-01 Fri> DEADLINE: <2016-01-09 Sat>
+
+* Trivial, sort, non-deadline tasks [13%]
+  - [X] Emacswiki scheduled tasks in main page
+  - [ ] Check emacs articles from hard-drive, historical tasks on main page wiki, drafts on wiki, etc
+  - [X] Reminder for emacs: http://comments.gmane.org/gmane.emacs.orgmode/46641
+                            http://doc.norang.ca/org-mode.html#Reminders
+                            https://www.gnu.org/software/emacs/manual/html_node/emacs/Appointments.html
+  - [ ] Map video itinerary: http://www.wondershare.com.br/imovie/create-animated-maps-in-imovie.html
+                             http://www.youtube.com/watch?v=aoNWHOSwb0c
+                             http://www.youtube.com/watch?v=gZFarLfYmtU
+  - [ ] Org basics: archive
+  - [ ] Org basics: expand/contract
+  - [ ] Org basics: Set priorities
+  - [ ] Org basics: exit mode view tasks
+  - [ ] Gmail emails short
+  - [ ] Password/service manager
+  - [ ] Pub/private key
+  - [ ] HSM module in Linux
+  - [ ] Linux services: systemd, pip, syslogd, dbus, etc
+  - [ ] Firefox plugins: dictionaries, flash, etc
+  - [ ] lsof, socklist, netstat, etc command control.
+
+* Overview
+
+General overview calendar 2014B:
+|------+----------------------+--------------------------+--------------------+------------------------+----------------------|
+| July | August               | September                | October            | November               | December             |
+|------+----------------------+--------------------------+--------------------+------------------------+----------------------|
+|      | 2nd:  (B) XP         | 20th: (B) Refactoring    | 25th: (B) Analysis | 29th: (B) Design       | 20th: (B) Metasploit |
+|      | 16th: (B) Pragmatic  | 20th: (B) Little schemer | 25th: (B) Aleph    | 29th: (B) Land of Lisp | 20th: (L) Python     |
+|      | 16th: (B) CommonLisp | 20th: (B) Wireshark      |                    | 29th: (B) Make         | 20th: (L) C          |
+|      | 16th: (B) Nmap       | 20th: (B) Valgrind       |                    |                        |                      |
+|------+----------------------+--------------------------+--------------------+------------------------+----------------------|
+
+General overview calendar 2015A:
+|-----------------------+----------+---------------------+-------+-----+---------------------------|
+| January               | February | March               | April | May | June                      |
+|-----------------------+----------+---------------------+-------+-----+---------------------------|
+| 31st: (B) UML         |          | 21st: (B) SICP      |       |     | 20th: (B) Mastering C     |
+| 31st: (B) Mundo Feliz |          | 21st: (B) Autotools |       |     | 20th: (B) Haskell book    |
+|                       |          | 21st: (L) CL        |       |     | 20th: (B) Awk,sed,tools   |
+|                       |          | 21st: (L) Scheme    |       |     | 20th: (B) Maestro Esgrima |
+|                       |          |                     |       |     | 20th: (L) Haskell         |
+|-----------------------+----------+---------------------+-------+-----+---------------------------|
+
+General overview calendar 2015B:
+|------+--------+-----------+---------+----------+---------------------------------|
+| July | August | September | October | November | December                        |
+|------+--------+-----------+---------+----------+---------------------------------|
+|      |        |           |         |          | 19th: (B) Modern C++            |
+|      |        |           |         |          | 19th: (B) Exceptional C++       |
+|      |        |           |         |          | 19th: (B) Applied cryptography  |
+|      |        |           |         |          | 19th: (B) Free as in freedom    |
+|      |        |           |         |          | 19th: (B) Free software society |
+|      |        |           |         |          | 19th: (L) C++                   |
+|      |        |           |         |          | 19th: (L) TeX                   |
+|      |        |           |         |          | 19th: (B) GEB                   |
+|------+--------+-----------+---------+----------+---------------------------------|
+
+General info:
+- Tasks normally are finished on Saturdays.
+- Tasks normally are scheduled next Sundays after finished previous ones.
+- Priorities are set once tasks are scheduled.
+
+* Tips
+
+Basic tips:
+- set tasks
+ - C-c C-d  => set deadline
+ - C-c C-s  => set schedule
+ - C-c C-c  => to close a simple task
+ - C-c C-t  => to close a full set of tasks
+
+- show tasks:
+ - TAB          => expand one task into subtasks
+ - Shift + TAB  => expand all subtree (if multiple times expands more)
+
+- set priorities
+ - C-c , +  => increase prio
+ - C-c , -  => decrease prio
+
+- show agenda
+ - C-c a a => agenda todo for current day/week
+ - C-c a t => agenda todo for all the tasks
+ - C-c a L => agenda todo for the current buffer
+ - C-c a m => agenda todo for specific tag
+ - C-c a s => agenda todo for specific search
+
+- ORG+check
+ - C-c / d  => Check deadlines
+ - C-c / b  => Check schedules and deadlines
+ - C-c / a  => Check deadlines after date
+
+ - Return to original view  => "q" or just Shift+TAB until view is ok
+
+- Show current tasks on startup (org-agenda) : check dotemacs
